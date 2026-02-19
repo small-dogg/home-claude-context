@@ -1,4 +1,5 @@
 ### .claude ###
+settings.json
 history.jsonl
 debug/
 cache/
